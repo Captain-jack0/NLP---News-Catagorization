@@ -1,10 +1,10 @@
 #Gerekli kütüphaneleri indir
-!pip install stanza
-!pip install tpdm
-!pip install nltk
-!python -m nltk.downloader wordnet
-!pip install TurkishStemmer
-!pip install fasttext
+#!pip install stanza
+#!pip install tpdm
+#!pip install nltk
+#!python -m nltk.downloader wordnet
+#!pip install TurkishStemmer
+#!pip install fasttext
 
 import pandas as pd
 import stanza
